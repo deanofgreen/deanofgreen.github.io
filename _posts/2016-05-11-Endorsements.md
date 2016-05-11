@@ -25,5 +25,5 @@ I have compiled a list of candidates whom I support, and whom I hope you will jo
 |Attorney General                          |   Refuses to Endorse Ellen Rosemblum|
 |Mayor of Portland                         |                          Ted Wheeler|
 |Washington County Commissioner District 3 |                  Glendora Claybrooks|
-|:------------------------------------------+-------------------------------------:|
+|:-----------------------------------------+------------------------------------:|
 
