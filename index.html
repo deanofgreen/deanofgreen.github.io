@@ -2,22 +2,26 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+	<div class="jumbotron font-effect-3d-float" background-image="/resources/Jumbotron.jpg">
+		<div class="container">
+			<h1 class=text-center>
+				Elect Armand Davis
+			</h1>
+			<p class=text-center>
+				Democratic Precinct Committeeperson (Precinct 420)
+			</div>
+		</div>
+    </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>About Me</h2>
+				<img src="resources/portrait.jpg" alt="Portrait of Armand" id="portrait" class="img-thumbnail">
+                <p>
+                    Feel free to <a href=#contact>contact me</a> using the links at the bottom of this page.
+                </p>
+            </div>
+		</div>
+	</div>
+    
+<link rel="stylesheet" href="{{ "/css/home.css" | prepend: site.baseurl }}" type="text/css">
