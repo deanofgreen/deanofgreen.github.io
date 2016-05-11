@@ -15,3 +15,11 @@ instagram_username: dean_of_green420
 
 # Build settings
 markdown: kramdown
+
+#defaults
+defaults:
+  - 
+    scope: 
+      path: ""
+    values:
+      author: "Dean of Green"
