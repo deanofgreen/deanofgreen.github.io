@@ -48,4 +48,4 @@ I have compiled a list of candidates whom I support, and whom I hope you will jo
 
 **Nicholas Hammond** --- Local Student and State Champion Mock Trial Team Member
 
-> The Dean of Green is a charismatic champion of freedom. Vote for him if you want to bring Tualatin to a New High. 
+> The Dean of Green is a charismatic champion of freedom. Vote for him to take Tualatin to a New High. 
