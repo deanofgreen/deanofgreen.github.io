@@ -8,7 +8,7 @@ layout: post
 
 I have compiled a list of candidates whom I support, and whom I hope you will join me in voting for. 
 
-#### Democratic Primary Candidates:
+#### Democratic Primary Candidates
 
 |:-----------------------------------------+------------------------------------:|
 |Postition                                 |                            Candidate|
