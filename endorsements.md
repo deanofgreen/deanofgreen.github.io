@@ -48,4 +48,4 @@ I have compiled a list of candidates whom I support, and whom I hope you will jo
 
 **Nicholas Hammond** --- Local Student and State Champion Mock Trial Team Member
 
-> The Dean of Green is a charismatic champion of freedom. Vote for him to take Tualatin to a New High. 
+> I've known Armand Davis for 10 years. If there's any one thing I can say about him, it's that he stands up for what he believes in. Armand is a man of action, a man of his word. I remember one time his brother was being bullied. Some thugs were tossing stones at him. So he walked in front of them and took the stones. He got stoned for his brother. I know that if he takes control, we will reach a new high for this precinct. He will channel our focus into a pipe of success. I know that after hearing his policies, I'm hooked on it. We're going to blaze new paths under his command. I know that he's dedicated to sowing grass, and taking out the weeds. He's going to clear the fields until they're nothing but green. He's a man of his word, and a man of action. Vote Armand Davis for Precinct 420 Democratic PCP.

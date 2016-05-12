@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+#Sitemap
+gems:
+  - jekyll-sitemap
+  
 # Site settings
 title: DeanOfGreen
 email: armandforprecinct420@gmail.com
