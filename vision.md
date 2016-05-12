@@ -13,7 +13,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 The Dean of Green will keep Tualatin green by promoting plant growth, urban farming, and communal gardens. He believes increased plant growth could help the community bond and see the true beauty of nature. He believes all plants, regardless of appearance, scent, and uses, should be cared for and valued equally.
 
 ### Climate Change
-Climate Change: The Dean of Green believes Climate change is the greatest threat to the US in existence. He believes by growing more plants and weeds this change can be reduced or even reversed.
+The Dean of Green believes climate change is the greatest threat to the US in existence. He believes by growing more plants and weeds this change can be reduced or even reversed.
+
 ### Trade
 The Dean of Green is highly pro-trade and free market. He believes this will allow far greater access to key goods and greater market choice, particularly in the recreation sector.
 
@@ -21,4 +22,4 @@ The Dean of Green is highly pro-trade and free market. He believes this will all
 The Dean of Green supports open borders between the US and its neighbors to encourage immigration and strengthen cultural ties. He believes this cultural exchange would promote happiness and calmness throughout the world.
 
 ### Healthcare
-The Dean of Green strongly believes in reforming medical plans such that they allow access to deperately needed drugs and treatment options to those in need, or those who simply want a wider variety of options. 
+The Dean of Green strongly believes in reforming medical plans such that they allow access to desperately needed drugs and treatment options to those in need, or those who simply want a wider variety of options. 
