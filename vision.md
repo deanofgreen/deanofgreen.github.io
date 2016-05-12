@@ -1,5 +1,5 @@
 ---
-title: My Platform
+title: My Vision
 layout: post
 date: 2016-05-11
 ---
